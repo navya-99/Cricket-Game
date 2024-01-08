@@ -1,1 +1,1 @@
-Cricket Game using HTML, CSS and JavaScript
+#Cricket Game using HTML, CSS and JavaScript
